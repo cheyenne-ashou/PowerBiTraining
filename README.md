@@ -20,3 +20,4 @@ During the course of this exercise, I leanred the following basics:
   - Report View
 
 ### The Result
+<img width="712" alt="image" src="https://github.com/cheyenne-ashou/PowerBiTraining/assets/54869764/fbe21564-dbf7-4102-9a8b-36a3b7783c4f">
