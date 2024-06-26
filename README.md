@@ -20,4 +20,11 @@ During the course of this exercise, I leanred the following basics:
   - Report View
 
 ### The Result
+#### Failed Banks Report
 <img width="712" alt="image" src="https://github.com/cheyenne-ashou/PowerBiTraining/assets/54869764/fbe21564-dbf7-4102-9a8b-36a3b7783c4f">
+#### Report With Tooltip
+<img width="711" alt="image" src="https://github.com/cheyenne-ashou/PowerBiTraining/assets/54869764/3d5793f6-555c-4672-8e9f-13b743885eb3">
+
+### References
+This activity was completed with the help of Pragmatic Works on Youtube. You can the find the reference video in the link below:
+https://www.youtube.com/live/77jIzgvCIYY?si=a-HuDssHAsQIKoq0
