@@ -1,4 +1,4 @@
-# PowerBiTraining
+# Power BI Learning
 
 ### What I learned
 
